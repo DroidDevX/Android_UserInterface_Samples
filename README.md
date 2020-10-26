@@ -17,35 +17,35 @@ Gradle and Android Plugins versions in each project may vary.
 
 #Projects preview - in order
 
-#1) Recyclerview with different layout
+#1) Recyclerview with different layout\
 ![](recyclerviewModes.gif)
 
-#2) Recyclerview with search bar
+#2) Recyclerview with search bar\
 ![](recyclerviewSearch.gif)
 
-#3) Recyclerview with movable rows
+#3) Recyclerview with movable rows\
 ![](recyclerviewrows.gif)
 
-#4) Bottom navigation
+#4) Bottom navigation\
 ![](bottomNavigation.gif)
 
-#5) Date picker
+#5) Date picker\
 ![](DatePicker.gif)
 
-#6) Preference fragment
+#6) Preference fragment\
 ![](PreferenceFragment.gif)
 
-#7) Full screen
+#7) Full screen\
 ![](fullScreen.gif)
 
-#8) Master detail flow
+#8) Master detail flow\
 ![](masterDetail.gif)
 
-#9) Navigation drawer
+#9) Navigation drawer\
 ![](navigationDrawer.gif)
 
-#10) Scrolling activity
+#10) Scrolling activity\
 ![](scrollingActivity.gif)
 
-#11) Activity with tabs
+#11) Activity with tabs\
 ![](tabs.gif)

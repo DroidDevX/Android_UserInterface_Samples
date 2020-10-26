@@ -16,7 +16,8 @@ Gradle and Android Plugins versions in each project may vary.
 
 
 #Projects preview - in order
-#1) Recyclerview with different layouts
+
+#1) Recyclerview with different layout
 ![](recyclerviewModes.gif)
 
 #2) Recyclerview with search bar
